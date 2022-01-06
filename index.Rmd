@@ -1,22 +1,20 @@
 ---
 title: "Jack Chen"
 image: "jack.jpg"
-color1: "#5A59A3"
-color2: "#C66060"
-angle: 130
+color1: "#C66060"
+color2: "#5A59A3"
+angle: 150
 links:
   - label: Bilibili
     url: "https://space.bilibili.com/7155706?spm_id_from=333.1007.0.0"
-  - label: Instagram
-    url: "https://www.instagram.com/"
   - label: GitHub
-    url: "https://github.com/JJ12117502"
+    url: "https://github.com/jackchen7502"
   - label: Email
     url: "mailto:799904657@qq.com"
-  - label: Alibaba
-    url: "https://simaige.en.alibaba.com/productlist.html?spm=a2700.shop_cp.88.6"
 output:
   postcards::onofre
 ---
  
 菜鸟小陈，请多关照！！！
+
+[阿里巴巴国际站](https://simaige.en.alibaba.com/productlist.html?spm=a2700.shop_cp.88.6)
